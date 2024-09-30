@@ -6,10 +6,77 @@ import java.util.Scanner;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-       /* String bookTitle = "Book: Hobbit";
-        System.out.println(bookTitle);
 
-        String author = "Author: J.R.R Tolkien";
+        System.out.println("Abstraktion");
+
+
+
+
+
+
+
+
+
+
+
+
+
+        /*System.out.println("Polymorfism");
+        Calculator calculator = new Calculator();
+        System.out.println(calculator.multiply(5,5));
+        System.out.println(calculator.multiply(6.7,6.7));
+        System.out.println("-------------------------------------");
+        System.out.println("---------------------------------------");
+
+        Shape myCircle = new Circle();
+        Shape myRectangle = new Rectangle();
+        Shape shape = new Shape();
+
+        shape.draw();
+        myCircle.draw();
+        myRectangle.draw();*/
+
+
+
+
+
+
+
+
+
+
+       /* Book book = new Book("Sagan om ringen", "J.R.R Tolkien", 1200);
+        book.printBook();
+        book.calculateReadingTime();
+        System.out.println("------------------------------------------------------------");
+
+        Book book1 = new Book("Harry Potter och de vises sten", "J.K Rowling", 256);
+        book1.printBook();
+        book1.calculateReadingTime();
+        System.out.println("-------------------------------------------------------------");
+
+        Book book2 = new Book("Wallander", "Henning Mankell", 80);
+        book2.printBook();
+        book2.calculateReadingTime();
+        System.out.println("--------------------------------------------------------------");*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        /*String author = "Author: J.R.R Tolkien";
         System.out.println(author);
 
         int pages = 400;
