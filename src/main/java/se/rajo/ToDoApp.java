@@ -14,7 +14,7 @@ public class ToDoApp {
             System.out.println("1. Add task");
             System.out.println("2. Show tasks");
             System.out.println("3. Remove task");
-            System.out.println("Exit");
+            System.out.println("4. Exit");
             System.out.println("Choose an option: ");
 
             int choice = scanner.nextInt();
@@ -23,6 +23,9 @@ public class ToDoApp {
             switch (choice) {
                 case 1:
                     System.out.println("Enter task description");
+                    break;
+                case 2:
+                    System.out.println();
             }
         }
     }
